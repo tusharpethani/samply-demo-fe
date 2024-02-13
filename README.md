@@ -1,11 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-  
+
 ### Sample user credential
 
 email: user1@yopmail.com\
 password: Test@1234
+
+### Third-party API I have used is
+
+[https://api.disneyapi.dev/character](https://api.disneyapi.dev/character)
 
 ## Available Scripts
 
